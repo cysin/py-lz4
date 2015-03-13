@@ -1,0 +1,1 @@
+A python compress extension using lz4 algorithm and it was for a personal project.
